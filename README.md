@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Andrea Lo
+- 👀 I’m an undergraduate English student interested in computational linguistics and Old English!
+- 🌱 Right now I'm experimenting with Old English phonological patterns on cltk
